@@ -17,6 +17,8 @@ public class JavaProgram
     multiply = first * second;
     devide = (float) first / second;
 
-    System.out.println("Sum = " + add);  }
+    System.out.println("Sum = " + add);  
+System.out.println("sub =" +sub)
+}
 }
 
